@@ -57,4 +57,9 @@ I do not work on spam PRs, fake stars or reviews, exploit abuse, credential hand
 
 ## Contact
 
-Open a Starter Audit or Custom Automation request in the pinned repository issue forms.
+Open a scoped request:
+
+- Starter Audit: https://github.com/George4177/github-income-scout/issues/new?template=starter-audit.yml
+- Custom Automation: https://github.com/George4177/github-income-scout/issues/new?template=custom-automation.yml
+
+Please do not include passwords, private tokens, payment details, or private account credentials in a public issue.
