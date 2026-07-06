@@ -46,10 +46,10 @@ It helps turn public GitHub issue searches into a practical action plan with:
 
 Start here:
 
-- README: `github-income-scout/README.md`
-- sample audit: `github-income-scout/examples/sample_audit.md`
-- case study: `github-income-scout/examples/starter_audit_case_study.md`
-- pricing notes: `github-income-scout/pricing.md`
+- Repository: https://github.com/George4177/github-income-scout
+- Sample audit: https://github.com/George4177/github-income-scout/blob/main/examples/sample_audit.md
+- Case study: https://github.com/George4177/github-income-scout/blob/main/examples/starter_audit_case_study.md
+- Pricing notes: https://github.com/George4177/github-income-scout/blob/main/pricing.md
 
 ## Working Boundaries
 
