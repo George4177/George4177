@@ -46,7 +46,9 @@ It helps turn public GitHub issue searches into a practical action plan with:
 
 Start here:
 
+- Landing page: https://george4177.github.io/github-income-scout/
 - Repository: https://github.com/George4177/github-income-scout
+- Release: https://github.com/George4177/github-income-scout/releases/tag/v0.1.0
 - Sample audit: https://github.com/George4177/github-income-scout/blob/main/examples/sample_audit.md
 - Case study: https://github.com/George4177/github-income-scout/blob/main/examples/starter_audit_case_study.md
 - Pricing notes: https://github.com/George4177/github-income-scout/blob/main/pricing.md
