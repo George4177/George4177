@@ -10,6 +10,7 @@ Open for small fixed-scope work:
 
 Start a request:
 
+- [Service menu](https://github.com/George4177/github-income-scout/blob/main/SERVICE_MENU.md)
 - [GitHub Starter Audit](https://github.com/George4177/github-income-scout/issues/new?template=starter-audit.yml)
 - [Custom Automation](https://github.com/George4177/github-income-scout/issues/new?template=custom-automation.yml)
 
