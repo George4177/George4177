@@ -2,6 +2,17 @@
 
 I build small Python and GitHub workflow tools for developers who want practical automation, cleaner project presentation, and better open-source contribution plans.
 
+Open for small fixed-scope work:
+
+- Starter Audit: 10 screened GitHub opportunities with acceptance and risk notes
+- Python automation: scripts, reports, exports, and workflow cleanup
+- GitHub project polish: README, issue templates, Actions, and contribution docs
+
+Start a request:
+
+- [GitHub Starter Audit](https://github.com/George4177/github-income-scout/issues/new?template=starter-audit.yml)
+- [Custom Automation](https://github.com/George4177/github-income-scout/issues/new?template=custom-automation.yml)
+
 ## Available for Fixed-Scope Work
 
 ### GitHub Starter Audit
