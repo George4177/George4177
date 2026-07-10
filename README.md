@@ -73,7 +73,7 @@ I do not work on spam PRs, fake stars or reviews, exploit abuse, credential hand
 ## Recent Open-Source Work
 
 - Merged: [NDilanka/orrery#23](https://github.com/NDilanka/orrery/pull/23) - docs-only headless engine quickstart.
-- Open: [abduznik/bitbox#125](https://github.com/abduznik/bitbox/pull/125) - assigned `seconds_to_hms` tool request.
+- Merged: [abduznik/bitbox#125](https://github.com/abduznik/bitbox/pull/125) - assigned `seconds_to_hms` tool request.
 - Open: [profit-coders/tg-spam-filter#3](https://github.com/profit-coders/tg-spam-filter/pull/3) - README and contribution guidance cleanup.
 
 ## Contact
