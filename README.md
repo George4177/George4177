@@ -77,6 +77,7 @@ I do not work on spam PRs, fake stars or reviews, exploit abuse, credential hand
 - Merged: [abduznik/bitbox#125](https://github.com/abduznik/bitbox/pull/125) - assigned `seconds_to_hms` tool request.
 - Merged: [aadi-joshi/cngx#45](https://github.com/aadi-joshi/cngx/pull/45) - Codex and coding-agent verification recipes; all reported CI checks passed.
 - Open: [kubeflow/website#4431](https://github.com/kubeflow/website/pull/4431) - official Kubeflow MCP Server subproject documentation and navigation.
+- Open: [ComposioHQ/awesome-codex-skills#172](https://github.com/ComposioHQ/awesome-codex-skills/pull/172) - submitted the installable GitHub Income Scout skill for directory review.
 - Open: [profit-coders/tg-spam-filter#3](https://github.com/profit-coders/tg-spam-filter/pull/3) - README and contribution guidance cleanup.
 
 ## Contact
