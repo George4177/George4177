@@ -2,6 +2,8 @@
 
 I build small Python and GitHub workflow tools for developers who want practical automation, cleaner project presentation, and better open-source contribution plans.
 
+Fixed-scope packages start at USD 29. Recent delivery proof includes three merged open-source contributions covering Python tooling, documentation, and coding-agent verification workflows.
+
 Open for small fixed-scope work:
 
 - Starter Audit: 10 screened GitHub opportunities with acceptance and risk notes
@@ -11,8 +13,8 @@ Open for small fixed-scope work:
 Start a request:
 
 - [Service menu](https://github.com/George4177/github-income-scout/blob/main/SERVICE_MENU.md)
+- [Request a USD 29-49 Starter Audit](https://github.com/George4177/github-income-scout/issues/new?template=starter-audit.yml)
 - [Installable Codex skill v0.2.0](https://github.com/George4177/github-income-scout/releases/tag/v0.2.0)
-- [GitHub Starter Audit](https://github.com/George4177/github-income-scout/issues/new?template=starter-audit.yml)
 - [Profile + Opportunity Pack](https://github.com/George4177/github-income-scout/issues/new?template=profile-opportunity-pack.yml)
 - [Custom Automation](https://github.com/George4177/github-income-scout/issues/new?template=custom-automation.yml)
 
@@ -62,7 +64,7 @@ Start here:
 
 - Landing page: https://george4177.github.io/github-income-scout/
 - Repository: https://github.com/George4177/github-income-scout
-- Release: https://github.com/George4177/github-income-scout/releases/tag/v0.1.0
+- Release: https://github.com/George4177/github-income-scout/releases/tag/v0.2.0
 - Sample audit: https://github.com/George4177/github-income-scout/blob/main/examples/sample_audit.md
 - Case study: https://github.com/George4177/github-income-scout/blob/main/examples/starter_audit_case_study.md
 - Pricing notes: https://github.com/George4177/github-income-scout/blob/main/pricing.md
