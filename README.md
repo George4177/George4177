@@ -13,6 +13,7 @@ Open for small fixed-scope work:
 Start a request:
 
 - [Service menu](https://github.com/George4177/github-income-scout/blob/main/SERVICE_MENU.md)
+- [USD 29-49 Starter Audit scope](https://github.com/George4177/github-income-scout/issues/1)
 - [Request a USD 29-49 Starter Audit](https://github.com/George4177/github-income-scout/issues/new?template=starter-audit.yml)
 - [Reusable GitHub Action + Codex skill v0.3.0](https://github.com/George4177/github-income-scout/releases/tag/v0.3.0)
 - [Profile + Opportunity Pack](https://github.com/George4177/github-income-scout/issues/new?template=profile-opportunity-pack.yml)
