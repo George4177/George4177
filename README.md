@@ -15,7 +15,7 @@ Start a request:
 - [Service menu](https://github.com/George4177/github-income-scout/blob/main/SERVICE_MENU.md)
 - [USD 29-49 Starter Audit scope](https://github.com/George4177/github-income-scout/issues/1)
 - [Request a USD 29-49 Starter Audit](https://github.com/George4177/github-income-scout/issues/new?template=starter-audit.yml)
-- [Reusable GitHub Action + Codex skill v0.3.0](https://github.com/George4177/github-income-scout/releases/tag/v0.3.0)
+- [Reusable GitHub Action + Codex skill v0.4.0](https://github.com/George4177/github-income-scout/releases/tag/v0.4.0)
 - [Profile + Opportunity Pack](https://github.com/George4177/github-income-scout/issues/new?template=profile-opportunity-pack.yml)
 - [Custom Automation](https://github.com/George4177/github-income-scout/issues/new?template=custom-automation.yml)
 
@@ -31,6 +31,7 @@ Typical deliverables:
 - top 3 recommended first actions
 - acceptance criteria and failure-risk notes
 - rejected high-risk or poor-fit matches
+- Markdown delivery with an optional print-friendly HTML report
 - one GitHub profile or README positioning suggestion
 
 Suggested first package: USD 29-49.
@@ -65,7 +66,7 @@ Start here:
 
 - Landing page: https://george4177.github.io/github-income-scout/
 - Repository: https://github.com/George4177/github-income-scout
-- Release: https://github.com/George4177/github-income-scout/releases/tag/v0.3.0
+- Release: https://github.com/George4177/github-income-scout/releases/tag/v0.4.0
 - Sample audit: https://github.com/George4177/github-income-scout/blob/main/examples/sample_audit.md
 - Case study: https://github.com/George4177/github-income-scout/blob/main/examples/starter_audit_case_study.md
 - Pricing notes: https://github.com/George4177/github-income-scout/blob/main/pricing.md
