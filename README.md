@@ -2,7 +2,7 @@
 
 I build small Python and GitHub workflow tools for developers who want practical automation, cleaner project presentation, and better open-source contribution plans.
 
-Fixed-scope packages start at USD 29. Recent delivery proof includes three merged open-source contributions covering Python tooling, documentation, and coding-agent verification workflows.
+Fixed-scope packages start at USD 29. Recent delivery proof includes four merged open-source contributions covering Python tooling, documentation, coding-agent verification, and subprocess reliability.
 
 Open for small fixed-scope work:
 
@@ -59,7 +59,7 @@ It helps turn public GitHub issue searches into a practical action plan with:
 - likely time cost
 - acceptance signals
 - safety filtering
-- Markdown, CSV, and JSON exports
+- Markdown, CSV, JSON, and HTML exports
 - Starter Audit templates and sample delivery files
 
 Start here:
@@ -67,6 +67,7 @@ Start here:
 - Landing page: https://george4177.github.io/github-income-scout/
 - Repository: https://github.com/George4177/github-income-scout
 - Release: https://github.com/George4177/github-income-scout/releases/tag/v0.4.0
+- Browser-ready sample: https://george4177.github.io/github-income-scout/sample-report.html
 - Sample audit: https://github.com/George4177/github-income-scout/blob/main/examples/sample_audit.md
 - Case study: https://github.com/George4177/github-income-scout/blob/main/examples/starter_audit_case_study.md
 - Pricing notes: https://github.com/George4177/github-income-scout/blob/main/pricing.md
@@ -77,11 +78,13 @@ I do not work on spam PRs, fake stars or reviews, exploit abuse, credential hand
 
 ## Recent Open-Source Work
 
+- Merged: [traceopt-ai/traceml#203](https://github.com/traceopt-ai/traceml/pull/203) - opt-in, bounded child stderr capture with high-volume and no-deadlock regression coverage.
 - Merged: [NDilanka/orrery#23](https://github.com/NDilanka/orrery/pull/23) - docs-only headless engine quickstart.
 - Merged: [abduznik/bitbox#125](https://github.com/abduznik/bitbox/pull/125) - assigned `seconds_to_hms` tool request.
 - Merged: [aadi-joshi/cngx#45](https://github.com/aadi-joshi/cngx/pull/45) - Codex and coding-agent verification recipes; all reported CI checks passed.
+- Open: [Deltares/imod-python#1880](https://github.com/Deltares/imod-python/pull/1880) - Well versus LayeredWell API documentation and an executable user-guide example.
 - Open: [kubeflow/website#4431](https://github.com/kubeflow/website/pull/4431) - official Kubeflow MCP Server subproject documentation and navigation.
-- Open: [ComposioHQ/awesome-codex-skills#172](https://github.com/ComposioHQ/awesome-codex-skills/pull/172) - submitted the installable GitHub Income Scout skill for directory review.
+- Open: [composio-community/awesome-codex-skills#172](https://github.com/composio-community/awesome-codex-skills/pull/172) - submitted the installable GitHub Income Scout skill for directory review.
 - Open: [profit-coders/tg-spam-filter#3](https://github.com/profit-coders/tg-spam-filter/pull/3) - README and contribution guidance cleanup.
 
 ## Contact
